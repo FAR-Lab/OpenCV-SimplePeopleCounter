@@ -1,6 +1,8 @@
 # Download this code intop the 
+To try this example please copy the ``peopleCounter.py``in to the object detection ``opencv-examples/objectdetection``
 
-opencv-examples/objectdetection
+An example comand would look like this ``cp peopleCounter ~/opencv-exaples/objectdetection/``
+
 
 ## How to use
 
